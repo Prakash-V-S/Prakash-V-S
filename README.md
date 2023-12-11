@@ -47,3 +47,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakash-v-s&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-v-s&" alt="GitHub Streak Stats" /></p>
+
+<h3 align="center">🌟 "The only way to do great work is to love what you do." - Steve Jobs</h3>
+<h3 align="center">🙏🏽 Thanks For Watching My Repo..! 🙏🏽</h3>
