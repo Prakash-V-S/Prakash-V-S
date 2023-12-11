@@ -17,6 +17,8 @@
 
 - 🎲 Fun fact: **I can solve a Rubik's Cube in under 1 min! It's my favorite way to unwind after coding sessions.**
 
+  <h3 align="center">🌟 "The only way to do great work is to love what you do." - Steve Jobs</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prakash-v-s" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -48,5 +50,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-v-s&" alt="GitHub Streak Stats" /></p>
 
-<h3 align="center">🌟 "The only way to do great work is to love what you do." - Steve Jobs</h3>
 <h3 align="center">🙏🏽 Thanks For Watching My Repo..! 🙏🏽</h3>
