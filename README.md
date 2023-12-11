@@ -1,3 +1,6 @@
+![Purple and Yellow Colorful Gradient Motivational Quote LinkedIn Article Cover Image (1)](https://github.com/Prakash-V-S/Prakash-V-S/assets/141955456/86bbffb2-beb7-41ed-bee7-efdf3ccecb9d)
+
+
 <h1 align="center">Hi 👋, I'm Prakash</h1>
 
 <p align="left">🌱 I’m currently learning MERN in GUVI<br><br>💬 Ask me about HTML, CSS, and JavaScript<br><br>📫 How to reach me prakashvs.official@gmail.com</p>
