@@ -19,13 +19,8 @@
 
 - 🎲 Fun fact: **I can solve a Rubik's Cube in under 1 min! It's my favorite way to unwind after coding sessions.**
 
-<h1 align="center">Hi 👋, I'm Prakash</h1>
-
 ###
 
-<p align="left">🌱 I’m currently learning MERN in GUVI<br><br>💬 Ask me about HTML, CSS, and JavaScript<br><br>📫 How to reach me prakashvs.official@gmail.com</p>
-
-###
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
