@@ -17,7 +17,7 @@
 
 - 🎲 Fun fact: **I can solve a Rubik's Cube in under 1 min! It's my favorite way to unwind after coding sessions.**
 
-  <h3 align="center">🌟 "The only way to do great work is to love what you do." - Steve Jobs</h3>
+  <h4 align="center">🌟 "The only way to do great work is to love what you do." - Steve Jobs</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
