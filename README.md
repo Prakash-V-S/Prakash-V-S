@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prakash</h1>
 
-###
-
 <p align="left">🌱 I’m currently learning MERN in GUVI<br><br>💬 Ask me about HTML, CSS, and JavaScript<br><br>📫 How to reach me prakashvs.official@gmail.com</p>
-
-###
 
 <div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -15,8 +11,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
-
-###
 
 <div align="right">
   <a href="https://www.instagram.com/_prakash.vs_/" target="_blank">
@@ -31,22 +25,14 @@
   </a>
 </div>
 
-###
-
 <br clear="both">
 
-<img align="right" height="290" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
-
-###
+<!-- Add your banner image -->
+<img align="right" height="290" src="URL_TO_YOUR_BANNER_IMAGE"  />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash-V-S&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=prakash-V-S&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
 <br clear="both">
-
-
-###
