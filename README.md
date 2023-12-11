@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **prakashvs.official@gmail.com**
 
-- 🎲 Fun fact: **I can solve a Rubik's Cube in under 1 min! It's my favorite way to unwind after coding sessions.**
+- 🎲 Fun fact: **I can solve a Rubik's Cube in under 40 sec! It's my favorite way to unwind after coding sessions.**
 
 ###
 
