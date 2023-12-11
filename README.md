@@ -70,8 +70,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/prakash-V-S/prakash-V-S/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h3 align="center">🙏🏽 Thanks For Watching My Repo..! 🙏🏽</h3>
