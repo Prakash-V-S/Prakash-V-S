@@ -28,7 +28,7 @@
 <br clear="both">
 
 <!-- Add your banner image -->
-<img align="right" height="290" src="file:///C:/Users/PRAKASH/Downloads/Purple%20and%20Yellow%20Colorful%20Gradient%20Motivational%20Quote%20LinkedIn%20Article%20Cover%20Image%20(1).jpeg"  />
+<img align="right" height="290" src="https://drive.google.com/file/d/1g_u1xu3dwTttZbZ2vMkTrp9KQp1E-XQ7/view?usp=sharing"  />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash-V-S&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
