@@ -28,7 +28,7 @@
 <br clear="both">
 
 <!-- Add your banner image -->
-<img align="right" height="290" src="Purple and Yellow Colorful Gradient Motivational Quote LinkedIn Article Cover Image (1).png"  />
+<img align="right" height="290" src="Purple and Yellow Colorful Gradient Motivational Quote LinkedIn Article Cover Image (1).jpeg"  />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash-V-S&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
