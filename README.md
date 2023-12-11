@@ -7,7 +7,7 @@
 
 - 🎓 Recent graduate with a degree in **MCA Computer Applications.**
 
-- 🛠️ My Favorite Tools and Technologies: **💻 Visual Studio Code - 🐙 Git for version control**
+- 🛠️ My Favorite Tools and Technologies: **💻 Visual Studio Code - 🚀 React.js for frontend development**
 
 - 💻 Actively learning and exploring **Full Stack Development (MERN).**
 
