@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Prakash V S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<h4 align="center">🌟 "The only way to do great work is to love what you do." - Steve Jobs</h4>
+
 
 - 🎓 Recent graduate with a degree in **MCA Computer Applications.**
 
@@ -16,8 +18,6 @@
 - 📫 How to reach me: **prakashvs.official@gmail.com**
 
 - 🎲 Fun fact: **I can solve a Rubik's Cube in under 1 min! It's my favorite way to unwind after coding sessions.**
-
-  <h4 align="center">🌟 "The only way to do great work is to love what you do." - Steve Jobs</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
