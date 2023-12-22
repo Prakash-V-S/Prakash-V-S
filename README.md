@@ -62,11 +62,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakash-v-s&show_icons=true&locale=en" alt="prakash-v-s" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash-v-s&" alt="prakash-v-s" /></p>
-###
 
 <br clear="both">
-
-###
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=kimbie_dark"><img src="https://github-profile-trophy.vercel.app/?username=prakash-v-s" alt="prakash-v-s" /></a> </p>
 
