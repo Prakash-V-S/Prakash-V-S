@@ -56,10 +56,6 @@
 
 <img align="right" height="290" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
 
-###
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakash-v-s" alt="prakash-v-s" /></a> </p>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash-V-S&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -71,5 +67,8 @@
 <br clear="both">
 
 ###
+###
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakash-v-s" alt="prakash-v-s" /></a> </p>
 
+###
 <h3 align="center">🙏🏽 Thanks For Watching My Repo..! 🙏🏽</h3>
