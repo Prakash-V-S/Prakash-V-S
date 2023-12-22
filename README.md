@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Prakash V S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <h4 align="center">🌟 "The only way to do great work is to love what you do." - Steve Jobs</h4>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakash-v-s" alt="prakash-v-s" /></a> </p>
-
 - 🎓 Recent graduate with a degree in **MCA Computer Applications.**
 
 - 🛠️ My Favorite Tools and Technologies: **💻 Visual Studio Code - 🚀 React.js for frontend development**
@@ -57,6 +55,9 @@
 <br clear="both">
 
 <img align="right" height="290" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+
+###
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakash-v-s" alt="prakash-v-s" /></a> </p>
 
 ###
 
