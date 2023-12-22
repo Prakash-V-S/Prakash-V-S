@@ -68,7 +68,7 @@
 
 ###
 ###
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakash-v-s" alt="prakash-v-s" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=kimbie_dark"><img src="https://github-profile-trophy.vercel.app/?username=prakash-v-s" alt="prakash-v-s" /></a> </p>
 
 ###
 <h3 align="center">🙏🏽 Thanks For Watching My Repo..! 🙏🏽</h3>
